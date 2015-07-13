@@ -5,7 +5,7 @@ Requires at least: 3.5
 Tested up to: 4.2.2
 Stable tag: 1.0
 
-A faster gallery plugin for WordPress
+A faster gallery plugin for WordPress!
 
 == Description ==
 
@@ -27,11 +27,9 @@ Do you have high server load due to the hundreds of database queries a  standard
 
 Using Gallerify is very, very easy. You can either allow the plugin to repalce the default WordPress Gallery on the Gallerify Settings (Dashboard > Settings > Gallerify Settings) or you can use the custom Gallerify shortcode to load the galleries. Just use the shortcode [gallerify] and put all the images inside the shortcode. You can also use the attribute <em>title</em> to add a title to the Gallerify gallery. Here's an example:
 
-<blockquote>
 [gallerify title="Screenshots"]
 Put image tags here!
 [/gallerify]
-</blockquote>
 
 See? It's that simple!
 
