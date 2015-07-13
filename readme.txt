@@ -9,7 +9,7 @@ A faster gallery plugin for WordPress
 
 == Description ==
 
-Do you have high server load due to the hundreds of database queries a  standard wordpress gallery plugin makes?  Meet Gallerify, a simple plugin which replaces the default WordPress Gallery  and completely solves the issue. Gallerify’s algorithm is much, much faster than  the default WordPress gallery and is optimised for high traffic websites.  Gallerify is also responsive and lets you have full control over the look of the  galleries. It lets you make full use of CND and browser-level caching of both  images and code and moves the load from your server to the client where it  belongs. Try it now and rest easy!
+Do you have high server load due to the hundreds of database queries a  standard wordpress gallery plugin makes?  Meet Gallerify, a simple plugin which replaces the default WordPress Gallery  and completely solves the issue. Gallerify's algorithm is much, much faster than  the default WordPress gallery and is optimised for high traffic websites.  Gallerify is also responsive and lets you have full control over the look of the  galleries. It lets you make full use of CND and browser-level caching of both  images and code and moves the load from your server to the client where it  belongs. Try it now and rest easy!
 
 **<a href="wmpoweruser.com/windows-10-mobile-build-10158-screenshots/" target="_blank">LIVE DEMO</a> - <a href="https://wordpress.org/support/view/plugin-reviews/gallerify" target="_self">LEAVE A REVIEW</a>**
 
